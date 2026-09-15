@@ -6,7 +6,7 @@ This project explores **question answering (QA)** using transformer-based langua
 
 The project covers dataset preparation, transformer fine-tuning, checkpoint evaluation, answer generation, quantitative model comparison, and visualization of the results.
 
-This project was originally developed as part of the **Natural Language Processing** module at Ostbayerische Technische Hochschule Amberg-Weiden (OTH Amberg-Weiden).
+This project was originally developed as part of the **Information Retrieval & Natural Language Processing** module at Ostbayerische Technische Hochschule Amberg-Weiden (OTH Amberg-Weiden).
 
 ## Models
 
