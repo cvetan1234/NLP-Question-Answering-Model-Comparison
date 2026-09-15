@@ -151,7 +151,3 @@ The complete project report can be found in:
 ```text
 Bericht/Bericht.pdf
 ```
-
-## About
-
-This project demonstrates practical NLP and transformer-based question answering, including dataset preparation, fine-tuning pretrained language models, extractive and generative QA, checkpoint selection, LLM evaluation, quantitative model comparison, and result visualization.
